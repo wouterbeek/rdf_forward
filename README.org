@@ -1,0 +1,4 @@
+#+title: rdf_forward
+#+author: Wouter Beek
+
+A forward reasoner for RDF and RDFS.
